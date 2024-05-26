@@ -12,6 +12,8 @@ Este repositorio contiene una blockchain basica en JavaScript. Puedes clonar est
     ```bash
     npm i
     ```
+    Dependencias: crypto-js, cryptojs
+   
 ## Run
 
 3. Ejecuta la blockchain
