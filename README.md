@@ -9,10 +9,18 @@ Este repositorio contiene una blockchain basica en JavaScript. Puedes clonar est
     git clone git@github.com:AdolfoEscobar/blockchain.git
     ```
 2. Descarga las dependencias (recuerda tener node.js en tu maquina)
-    ```bash
+
+     ```bash
     npm i
     ```
-    Dependencias: crypto-js, cryptojs
+     
+   ```bash
+    crypto-js
+    ```
+    
+    ```bash
+    cryptojs
+    ```
    
 ## Run
 
