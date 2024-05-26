@@ -10,11 +10,11 @@ Este repositorio contiene una blockchain basica en JavaScript. Puedes clonar est
     ```
 2. Descarga las dependencias (recuerda tener node.js en tu maquina)
 
-     ```bash
+    ```bash
     npm i
     ```
-     
-   ```bash
+    ###Dependencias utilizadas
+    ```bash
     crypto-js
     ```
     
