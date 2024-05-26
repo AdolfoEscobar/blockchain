@@ -12,7 +12,7 @@ Este repositorio contiene una blockchain basica en JavaScript. Puedes clonar est
     ```bash
     npm install cryptojs
     ```
-    ``bash
+    ```bash
     npm install crypto-js
     ```
     ``bash
